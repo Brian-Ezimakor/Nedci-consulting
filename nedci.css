@@ -20,6 +20,10 @@ transition: all 0.3s ease-in;
 scroll-behavior: smooth;
 }
 
+body {
+overflow-x: visible;
+}
+
 header {
 display: flex;
 flex-direction: row;
